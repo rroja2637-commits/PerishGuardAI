@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.db
+*.sqlite3
+outputs/
+models/*backup*
+app/app_backup.py
+app/app_before_*
+app/app_failed_edit.py
+
+models/perishguard_cnn.keras
